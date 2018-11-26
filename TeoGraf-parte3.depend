@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1542944373 source:c:\users\matheus\desktop\codeblock-projects\teograf-parte3\bibliotecateograf.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"FilaLista.h"
+	"PilhaLista.h"
+	"Lista.h"
+	"FuncoesAuxiliares.h"
+	<stdbool.h>
+	<limits.h>
+	<float.h>
+
+1535935842 c:\users\matheus\desktop\codeblock-projects\teograf-parte3\filalista.h
+
+1535939120 c:\users\matheus\desktop\codeblock-projects\teograf-parte3\pilhalista.h
+
+1538900240 c:\users\matheus\desktop\codeblock-projects\teograf-parte3\lista.h
+
+1539134973 c:\users\matheus\desktop\codeblock-projects\teograf-parte3\funcoesauxiliares.h
+
+1535935842 source:c:\users\matheus\desktop\codeblock-projects\teograf-parte3\filalista.c
+	<stdlib.h>
+	<stdio.h>
+
+1539135113 source:c:\users\matheus\desktop\codeblock-projects\teograf-parte3\funcoesauxiliares.c
+	<stdlib.h>
+	<sys/time.h>
+
+1538900358 source:c:\users\matheus\desktop\codeblock-projects\teograf-parte3\lista.c
+	<stdlib.h>
+	<stdio.h>
+
+1535938834 source:c:\users\matheus\desktop\codeblock-projects\teograf-parte3\pilhalista.c
+	<stdlib.h>
+	<stdio.h>
+
+1542983060 source:c:\users\matheus\desktop\codeblock-projects\teograf-parte3\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	"Lista.h"
+	"FilaLista.h"
+	"PilhaLista.h"
+	"FuncoesAuxiliares.h"
+	"BibliotecaTeoGraf.h"
+	<sys/time.h>
+
+1542943161 c:\users\matheus\desktop\codeblock-projects\teograf-parte3\bibliotecateograf.h
+	<stdio.h>
+	<stdbool.h>
+
